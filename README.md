@@ -3,7 +3,8 @@
 
 - Follow according to PDF provided.
 
-*update*
+# *update*
+
 - To monitor *DRBD* devices, replication status and overall health, install *drbdtop*
 
-*go install drbdtop*
+*go get github.com/LINBIT/drbdtop*
